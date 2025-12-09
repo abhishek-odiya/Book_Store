@@ -15,7 +15,7 @@ A simple and clean Full Stack MERN project that allows users to add, view, updat
 * Table view for all added books
 * Edit & delete actions with icons
 * Axios used for API communication
-* Deployed using Render / Vercel
+* Deployed using Render 
 
 ### ✅ Backend
 * REST API built using Node.js + Express
@@ -33,7 +33,7 @@ A simple and clean Full Stack MERN project that allows users to add, view, updat
 ### Frontend
 * React.js (Vite)
 * Axios
-* CSS (Custom UI Styling)
+* CSS 
 * React Icons
 
 ### Backend
@@ -131,7 +131,7 @@ http://localhost:5173
 ## 🌐 Deployment
 
 ### Frontend Deployed On:
-Render / Vercel
+Render 
 
 **Publish Directory:**
 ```
