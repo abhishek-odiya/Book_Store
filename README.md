@@ -44,18 +44,32 @@ A simple and clean Full Stack MERN project that allows users to add, view, updat
 ## 📂 Folder Structure
 
 ```
-frontend/
-  ├── src/
-  │   ├── components/
-  │   │   ├── Home.jsx
-  │   │   ├── Navbar.jsx
-  │   ├── App.jsx
-  │   ├── main.jsx
-  │   ├── index.css
-backend/
-  ├── server.js
-  ├── routes/
-  ├── models/
+Book_Store/
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Home.jsx
+│   │   │   ├── Navbar.jsx
+│   │   ├── App.jsx
+│   │   ├── main.jsx
+│   │   └── index.css
+│   ├── package.json
+│   └── vite.config.js
+│
+├── backend/
+│   ├── controller/
+│   │   └── book.controller.js
+│   ├── model/
+│   │   └── book.model.js
+│   ├── routes/
+│   │   └── book.routes.js
+│   ├── database.js
+│   ├── server.js
+│   ├── package.json
+│   └── package-lock.json
+│
+└── README.md
+  
 ```
 
 ## 🔧 Installation & Setup
